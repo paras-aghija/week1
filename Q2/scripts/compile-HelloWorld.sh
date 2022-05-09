@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd contracts/circuits
+cd ../contracts/circuits
 
 mkdir HelloWorld
 
